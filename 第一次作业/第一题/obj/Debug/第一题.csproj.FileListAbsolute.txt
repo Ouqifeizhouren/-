@@ -1,0 +1,7 @@
+G:\GIIIT\第一次作业\第一题\bin\Debug\第一题.exe.config
+G:\GIIIT\第一次作业\第一题\bin\Debug\第一题.exe
+G:\GIIIT\第一次作业\第一题\bin\Debug\第一题.pdb
+G:\GIIIT\第一次作业\第一题\obj\Debug\第一题.csproj.AssemblyReference.cache
+G:\GIIIT\第一次作业\第一题\obj\Debug\第一题.csproj.CoreCompileInputs.cache
+G:\GIIIT\第一次作业\第一题\obj\Debug\第一题.exe
+G:\GIIIT\第一次作业\第一题\obj\Debug\第一题.pdb
